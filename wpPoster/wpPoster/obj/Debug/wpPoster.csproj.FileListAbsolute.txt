@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.Main.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\bin\Debug\wpPoster.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\bin\Debug\JoeBlogs.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\obj\Debug\wpPoster.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\wpPoster\wpPoster\bin\Debug\CookComputing.XmlRpcV2.dll
